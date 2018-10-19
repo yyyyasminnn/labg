@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=sql10.freemysqlhosting.net	;dbname=sql10261980',
+    'dsn' => 'mysql:host=sql10.freemysqlhosting.net;dbname=sql10261980',
     'username' => 'sql10261980',
-    'password' => 's3cr&t#2016',
+    'password' => '9GFu9CdaDS',
     'charset' => 'utf8',
 
     // Schema cache options (for production environment)
